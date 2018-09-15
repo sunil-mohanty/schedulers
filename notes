@@ -14,3 +14,6 @@ W (weekday) – it is used to specify the weekday (Monday to Friday) nearest to 
 
 
 "0 15 10 15 * ?"
+
+the environment variable to be set
+scheduling.job.cron : 0 */2 * * * *
